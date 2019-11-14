@@ -1,0 +1,58 @@
+/*how to writte comments on css*/
+/*Thank You*/
+body{
+	margin:0;
+	background-color: #DCBE88;
+}
+header{
+	background-color: #C0392B;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 2px;
+}
+header h1{
+	color: white;
+	font-size: 40px;
+}
+header img{
+	border-radius: 220px;
+	width: 550px;
+	border: 20px;
+}
+main{
+	max-width: 830px;
+	margin: 0 auto;
+	padding: 0px;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+main h2{
+	font-family: arial;
+	color: #C0392B;
+}
+.small{
+	font-family: arial;
+	font-color: lightsalmon;
+}
+a{
+	color: red;
+}
+a:hover{
+	color: #483a94;
+}
+footer{
+	background-color: #C0392B;
+	text-align: center;
+	color: white;
+	padding: 10px;
+}
+footer a{
+	color: white
+}
+
+/*how to writte comments on css*/
+/*Thank You*/
