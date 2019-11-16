@@ -1,0 +1,58 @@
+/*how to write comments on css*/
+/*Thank You*/
+body{
+	margin:0;
+	background-color: #94AFDE;
+}
+header{
+	background-color: #C0392B;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 2px;
+	font-family: 'Lobster Two', cursive;
+	color: white;
+}
+header img{
+	border-radius: 440px;
+	width: 600px;
+}
+main{
+	font-family: 'Indie Flower', cursive;
+	font-size: 30px;
+	text-align: justify;
+	color: #C0392B;
+	max-width: 850px;
+	margin: 0 auto;
+	padding: 0px;
+}
+main img{
+	max-width: 600px;
+}	
+span{
+	font-family: 'Lobster Two', cursive;
+	font-size: 30px;
+	text-align: justify;
+	color: white;
+	font-weight: normal;
+}
+main h2{
+	font-family: 'Lobster Two', cursive;
+	color: #173D81;
+}
+a{
+	color: red;
+}
+a:hover{
+	color: #483a94;
+}
+footer{
+	background-color: #C0392B;
+	text-align: center;
+	color: white;
+	padding: 10px;
+}
+footer a{
+	color: white
+}
+/*how to write comments on css*/
+/*Thank You*/
